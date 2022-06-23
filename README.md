@@ -1,7 +1,8 @@
-<h1 aline="center"> Hi there! I'm Clendon DuRapau! 🏳️‍🌈</h1>
+<h1 align="center"> 🏳️‍🌈 Hi there! I'm Clendon DuRapau! 🏳️‍🌈</h1>
+
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-durapau/)
 [![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:clendon.durapau+githubreadme@gmail.com)
-[![GitHub](https://img.shields.io/badge/tobefranklyspeaking%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/clendon)](https://github.com/clendon)
+[![GitHub](https://img.shields.io/badge/clendon%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/clendon)](https://github.com/clendon)
 
 - 👨‍💻 Software Engineer
 - 🎵 Classically trained Clarinetist
