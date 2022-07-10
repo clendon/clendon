@@ -18,11 +18,11 @@
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass%20-%231582B7.svg?&style=flat-square&logo=Sass&logoColor=pink)
 ![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI%20-%23239DFF.svg?&style=flat-square&logo=material-ui&logoColor=fff)
 ![Axios](https://img.shields.io/badge/-Axios-blueviolet)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%230A68AD.svg?&style=flat-square&logo=jquery&logoColor=fff)
+<!-- ![Sass](https://img.shields.io/badge/Sass%20-%231582B7.svg?&style=flat-square&logo=Sass&logoColor=pink) -->
 
 ### **Back End:**
 
