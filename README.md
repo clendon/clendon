@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/clendon%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/clendon)](https://github.com/clendon)
 
 - 👨‍💻 Software Engineer
-- 🎵 Classically trained Clarinetist
+- 🎵 Classically trained clarinetist
 - 🌎 Lover of travel and foreign languages
 - 🍴 Foodie
 - 📍 Currently located in Houston, Texas
@@ -22,7 +22,7 @@
 ![Material-UI](https://img.shields.io/badge/Material--UI%20-%23239DFF.svg?&style=flat-square&logo=material-ui&logoColor=fff)
 ![Axios](https://img.shields.io/badge/-Axios-blueviolet)
 ![jQuery](https://img.shields.io/badge/jQuery%20-%230A68AD.svg?&style=flat-square&logo=jquery&logoColor=fff)
-<!-- ![Sass](https://img.shields.io/badge/Sass%20-%231582B7.svg?&style=flat-square&logo=Sass&logoColor=pink) -->
+![Sass](https://img.shields.io/badge/Sass%20-%231582B7.svg?&style=flat-square&logo=Sass&logoColor=pink)
 
 ### **Back End:**
 
